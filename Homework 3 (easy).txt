@@ -10,7 +10,7 @@ def f(n=float(input("Введите число: "))):
     else:
         print(int(n))
 f()
-
+ 
 
 
 # Задание-2:
